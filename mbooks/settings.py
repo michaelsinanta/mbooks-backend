@@ -87,8 +87,8 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:8000',
     'http://127.0.0.1:8000',
     'http://localhost:3000',
-    'http://mbooks-api.emyr298.com/',
-    'https://mbooks-api.emyr298.com/',
+    'http://mbooks-api.emyr298.com',
+    'https://mbooks-api.emyr298.com',
 ]
 
 ROOT_URLCONF = 'mbooks.urls'
