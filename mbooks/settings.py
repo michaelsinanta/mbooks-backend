@@ -89,6 +89,7 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
     'http://mbooks-api.emyr298.com',
     'https://mbooks-api.emyr298.com',
+    'https://mbooks-self.vercel.app',
 ]
 
 ROOT_URLCONF = 'mbooks.urls'
